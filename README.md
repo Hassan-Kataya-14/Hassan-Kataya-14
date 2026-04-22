@@ -4,6 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HassanKataya&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
@@ -30,12 +31,14 @@ class About(Me):
         "OtherLanguages"       : ["HTML", "CSS", "JSON", "Markdown"],
         "Editor"               : ["VS Code"],
         "VersionControl"       : ["Git", "GitHub"],
+        "Contact"              : ["Discord"],
     }
 ```
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; My name is **Hassan Kataya**, a developer passionate about coding.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I work with **Python, JavaScript, Node.js, HTML & CSS**.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My favorite editor : **VS Code**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Discord : **Hassan Kataya**
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact : Staring at code for 1 hour without finding the bug burns **200 calories**.
 
 <hr>
