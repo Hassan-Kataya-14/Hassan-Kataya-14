@@ -13,6 +13,8 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Json](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -24,15 +26,15 @@
 
 class About(Me):
     my_tools = {
-        "ProgrammingLanguages" : ["Python", "JavaScript"],
-        "OtherLanguages"       : ["HTML", "CSS", "Markdown"],
+        "ProgrammingLanguages" : ["Python", "JavaScript", "Node.js"],
+        "OtherLanguages"       : ["HTML", "CSS", "JSON", "Markdown"],
         "Editor"               : ["VS Code"],
         "VersionControl"       : ["Git", "GitHub"],
     }
 ```
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; My name is **Hassan Kataya**, a developer passionate about coding.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I work with **Python, JavaScript, HTML & CSS**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I work with **Python, JavaScript, Node.js, HTML & CSS**.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My favorite editor : **VS Code**.
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact : Staring at code for 1 hour without finding the bug burns **200 calories**.
 
