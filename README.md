@@ -31,10 +31,10 @@ class About(Me):
     }
 ```
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Je m'appelle **Hassan Kataya**, développeur passionné par le code.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Je travaille avec **Python, JavaScript, HTML & CSS**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Mon éditeur de prédilection : **VS Code**.
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact : Regarder du code pendant 1 heure sans trouver le bug brûle **200 calories**.
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; My name is **Hassan Kataya**, a developer passionate about coding.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I work with **Python, JavaScript, HTML & CSS**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My favorite editor : **VS Code**.
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact : Staring at code for 1 hour without finding the bug burns **200 calories**.
 
 <hr>
 
