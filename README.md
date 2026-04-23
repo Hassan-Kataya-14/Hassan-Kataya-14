@@ -1,8 +1,8 @@
-<img width="1000" height="100" alt="Hi coders" src="https://github.com/user-attachments/assets/57ba0908-8780-47dd-916b-a77fd477b9ac" />"
+<img width="1000" height="100" alt="Hi coders" src="https://github.com/user-attachments/assets/57ba0908-8780-47dd-916b-a77fd477b9ac" />
+
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="./Untitled%20design.gif" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HassanKataya&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
@@ -45,7 +45,6 @@ class About(Me):
 <hr>
 
 **Code Cycle**<br>
-
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
